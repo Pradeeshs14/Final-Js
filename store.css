@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background: #f5f5f5;
+  background: #beb5b5;
   text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
 
 .card {
   width: 300px;
-  background: white;
+  background: rgb(201, 224, 231);
   padding: 15px;
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
